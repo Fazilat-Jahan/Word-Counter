@@ -1,0 +1,19 @@
+{
+  "name": "word-counter-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "word-counter.js",
+  "type": "module",
+  "bin": "word-counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fazilat Jahan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
